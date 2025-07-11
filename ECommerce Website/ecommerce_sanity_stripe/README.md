@@ -31,12 +31,6 @@ A **modern, full-featured ECommerce platform** built for scalability, speed, and
 
 ---
 
-## 🌟 Demo
-
-See it live: [Demo Link](https://your-demo-url.com)
-
----
-
 ## 📦 Installation
 
 ```bash
@@ -113,13 +107,13 @@ npm start
 
 ## 👩‍💻 Maintainers
 
-- [Your Name](https://github.com/yourusername)
+- [Himanshi Singh](https://github.com/himanshi-0070)
 
 ---
 
 ## 💬 Contact
 
-Questions? Suggestions? [Open an issue](https://github.com/yourusername/ecommerce-website/issues) or email me at [your@email.com](mailto:your@email.com).
+Questions? Suggestions? [Open an issue](https://github.com/himanshi-0070/ecommerce-website/issues) or email me at [himanshi11220909@gmail.com](mailto:your@email.com).
 
 ---
 
